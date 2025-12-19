@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "attribute-testing", "attribute-testing\attribute-testing.csproj", "{84AE72EC-9157-74F5-8684-23A5DD486DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84AE72EC-9157-74F5-8684-23A5DD486DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AE72EC-9157-74F5-8684-23A5DD486DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AE72EC-9157-74F5-8684-23A5DD486DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AE72EC-9157-74F5-8684-23A5DD486DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB2B316B-7D99-42A5-AA99-046E9378B845}
+	EndGlobalSection
+EndGlobal
