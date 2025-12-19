@@ -37,7 +37,7 @@ foreach (Type w in test)
 }
 ```
 
-## A small helper to help with formatting
+## A small helper for formatting
 ```csharp
 public static string GetProgramBaseNamespaceFormatted()
 {
