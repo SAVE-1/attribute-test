@@ -2,11 +2,9 @@
 A little project, to test out how the ASP.Net is internally using Reflection to find classes with custom attributes, mimicking the way ASP.NET identifies controllers.
 
 # How to run
-Navigate to `./attribute-test/attribute-testing`
+Navigate to `./attribute-test/attribute-testing`, then run `dotnet run`
 
-Run `dotnet run`
-
-Or run in Visual Studio
+Or run the project in Visual Studio
 
 ## How all controllers are found from ./controllers
 ```csharp
